@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="xiaomi-mt6768-devs/device_xiaomi_gale" path="device/xiaomi/gale" remote="github" revision="lineage-21-old" />
+  <project name="xiaomi-mt6768-devs/device_xiaomi_gale-kernel" path="device/xiaomi/gale-kernel" remote="github" revision="lineage-21" />
+  <project name="xiaomi-mt6768-devs/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-21" />
+  <project name="xiaomi-mt6768-devs/vendor_xiaomi_gale" path="vendor/xiaomi/gale" remote="github" revision="lineage-21" />
+  <project name="xiaomi-mt6768-devs/hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-21" />
+  <project name="xiaomi-mt6768-devs/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-21" />
+</manifest>
