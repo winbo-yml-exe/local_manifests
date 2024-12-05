@@ -6,5 +6,4 @@
   <project name="xiaomi-mt6768-devs/vendor_xiaomi_gale" path="vendor/xiaomi/gale" remote="github" revision="lineage-21" />
   <project name="xiaomi-mt6768-devs/hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-21" />
   <project name="xiaomi-mt6768-devs/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_device_lineage_sepolicy" path="device/lineage/sepolicy" remote="github" revision="lineage-21.0" />
 </manifest>
